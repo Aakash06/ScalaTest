@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/checkoutServices/checkoutServices.iml" filepath="$PROJECT_DIR$/checkoutServices/checkoutServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory/inventory.iml" filepath="$PROJECT_DIR$/inventory/inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-build.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory_sdk/inventory_sdk.iml" filepath="$PROJECT_DIR$/inventory_sdk/inventory_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationServices/notificationServices.iml" filepath="$PROJECT_DIR$/notificationServices/notificationServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_capstone.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_capstone-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_capstone-build.iml" />
+    </modules>
+  </component>
+</project>
